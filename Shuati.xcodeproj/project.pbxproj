@@ -1,0 +1,530 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7D2D75431EB682B9007CEEA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */; };
+		7D2D75451EB682B9007CEEA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75441EB682B9007CEEA6 /* ViewController.swift */; };
+		7D2D75481EB682B9007CEEA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2D75461EB682B9007CEEA6 /* Main.storyboard */; };
+		7D2D754A1EB682B9007CEEA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D2D75491EB682B9007CEEA6 /* Assets.xcassets */; };
+		7D2D754D1EB682B9007CEEA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2D754B1EB682B9007CEEA6 /* LaunchScreen.storyboard */; };
+		7D2D75581EB682B9007CEEA6 /* ShuatiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75571EB682B9007CEEA6 /* ShuatiTests.swift */; };
+		7D2D75631EB682B9007CEEA6 /* ShuatiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75621EB682B9007CEEA6 /* ShuatiUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7D2D75541EB682B9007CEEA6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7D2D75371EB682B8007CEEA6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7D2D753E1EB682B8007CEEA6;
+			remoteInfo = Shuati;
+		};
+		7D2D755F1EB682B9007CEEA6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7D2D75371EB682B8007CEEA6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7D2D753E1EB682B8007CEEA6;
+			remoteInfo = Shuati;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7D2D753F1EB682B9007CEEA6 /* Shuati.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shuati.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7D2D75441EB682B9007CEEA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7D2D75471EB682B9007CEEA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7D2D75491EB682B9007CEEA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7D2D754C1EB682B9007CEEA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7D2D754E1EB682B9007CEEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2D75531EB682B9007CEEA6 /* ShuatiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShuatiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D2D75571EB682B9007CEEA6 /* ShuatiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuatiTests.swift; sourceTree = "<group>"; };
+		7D2D75591EB682B9007CEEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2D755E1EB682B9007CEEA6 /* ShuatiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShuatiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D2D75621EB682B9007CEEA6 /* ShuatiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuatiUITests.swift; sourceTree = "<group>"; };
+		7D2D75641EB682B9007CEEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7D2D753C1EB682B8007CEEA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D75501EB682B9007CEEA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D755B1EB682B9007CEEA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7D2D75361EB682B8007CEEA6 = {
+			isa = PBXGroup;
+			children = (
+				7D2D75411EB682B9007CEEA6 /* Shuati */,
+				7D2D75561EB682B9007CEEA6 /* ShuatiTests */,
+				7D2D75611EB682B9007CEEA6 /* ShuatiUITests */,
+				7D2D75401EB682B9007CEEA6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7D2D75401EB682B9007CEEA6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7D2D753F1EB682B9007CEEA6 /* Shuati.app */,
+				7D2D75531EB682B9007CEEA6 /* ShuatiTests.xctest */,
+				7D2D755E1EB682B9007CEEA6 /* ShuatiUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7D2D75411EB682B9007CEEA6 /* Shuati */ = {
+			isa = PBXGroup;
+			children = (
+				7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */,
+				7D2D75441EB682B9007CEEA6 /* ViewController.swift */,
+				7D2D75461EB682B9007CEEA6 /* Main.storyboard */,
+				7D2D75491EB682B9007CEEA6 /* Assets.xcassets */,
+				7D2D754B1EB682B9007CEEA6 /* LaunchScreen.storyboard */,
+				7D2D754E1EB682B9007CEEA6 /* Info.plist */,
+			);
+			path = Shuati;
+			sourceTree = "<group>";
+		};
+		7D2D75561EB682B9007CEEA6 /* ShuatiTests */ = {
+			isa = PBXGroup;
+			children = (
+				7D2D75571EB682B9007CEEA6 /* ShuatiTests.swift */,
+				7D2D75591EB682B9007CEEA6 /* Info.plist */,
+			);
+			path = ShuatiTests;
+			sourceTree = "<group>";
+		};
+		7D2D75611EB682B9007CEEA6 /* ShuatiUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7D2D75621EB682B9007CEEA6 /* ShuatiUITests.swift */,
+				7D2D75641EB682B9007CEEA6 /* Info.plist */,
+			);
+			path = ShuatiUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7D2D753E1EB682B8007CEEA6 /* Shuati */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7D2D75671EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "Shuati" */;
+			buildPhases = (
+				7D2D753B1EB682B8007CEEA6 /* Sources */,
+				7D2D753C1EB682B8007CEEA6 /* Frameworks */,
+				7D2D753D1EB682B8007CEEA6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Shuati;
+			productName = Shuati;
+			productReference = 7D2D753F1EB682B9007CEEA6 /* Shuati.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7D2D75521EB682B9007CEEA6 /* ShuatiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7D2D756A1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiTests" */;
+			buildPhases = (
+				7D2D754F1EB682B9007CEEA6 /* Sources */,
+				7D2D75501EB682B9007CEEA6 /* Frameworks */,
+				7D2D75511EB682B9007CEEA6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7D2D75551EB682B9007CEEA6 /* PBXTargetDependency */,
+			);
+			name = ShuatiTests;
+			productName = ShuatiTests;
+			productReference = 7D2D75531EB682B9007CEEA6 /* ShuatiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7D2D755D1EB682B9007CEEA6 /* ShuatiUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7D2D756D1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiUITests" */;
+			buildPhases = (
+				7D2D755A1EB682B9007CEEA6 /* Sources */,
+				7D2D755B1EB682B9007CEEA6 /* Frameworks */,
+				7D2D755C1EB682B9007CEEA6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7D2D75601EB682B9007CEEA6 /* PBXTargetDependency */,
+			);
+			name = ShuatiUITests;
+			productName = ShuatiUITests;
+			productReference = 7D2D755E1EB682B9007CEEA6 /* ShuatiUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7D2D75371EB682B8007CEEA6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Yankun Jin";
+				TargetAttributes = {
+					7D2D753E1EB682B8007CEEA6 = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+					};
+					7D2D75521EB682B9007CEEA6 = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 7D2D753E1EB682B8007CEEA6;
+					};
+					7D2D755D1EB682B9007CEEA6 = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 7D2D753E1EB682B8007CEEA6;
+					};
+				};
+			};
+			buildConfigurationList = 7D2D753A1EB682B8007CEEA6 /* Build configuration list for PBXProject "Shuati" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7D2D75361EB682B8007CEEA6;
+			productRefGroup = 7D2D75401EB682B9007CEEA6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7D2D753E1EB682B8007CEEA6 /* Shuati */,
+				7D2D75521EB682B9007CEEA6 /* ShuatiTests */,
+				7D2D755D1EB682B9007CEEA6 /* ShuatiUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7D2D753D1EB682B8007CEEA6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7D2D754D1EB682B9007CEEA6 /* LaunchScreen.storyboard in Resources */,
+				7D2D754A1EB682B9007CEEA6 /* Assets.xcassets in Resources */,
+				7D2D75481EB682B9007CEEA6 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D75511EB682B9007CEEA6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D755C1EB682B9007CEEA6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7D2D753B1EB682B8007CEEA6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7D2D75451EB682B9007CEEA6 /* ViewController.swift in Sources */,
+				7D2D75431EB682B9007CEEA6 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D754F1EB682B9007CEEA6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7D2D75581EB682B9007CEEA6 /* ShuatiTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D2D755A1EB682B9007CEEA6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7D2D75631EB682B9007CEEA6 /* ShuatiUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7D2D75551EB682B9007CEEA6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7D2D753E1EB682B8007CEEA6 /* Shuati */;
+			targetProxy = 7D2D75541EB682B9007CEEA6 /* PBXContainerItemProxy */;
+		};
+		7D2D75601EB682B9007CEEA6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7D2D753E1EB682B8007CEEA6 /* Shuati */;
+			targetProxy = 7D2D755F1EB682B9007CEEA6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7D2D75461EB682B9007CEEA6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7D2D75471EB682B9007CEEA6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7D2D754B1EB682B9007CEEA6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7D2D754C1EB682B9007CEEA6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7D2D75651EB682B9007CEEA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7D2D75661EB682B9007CEEA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7D2D75681EB682B9007CEEA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Shuati/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.Shuati;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		7D2D75691EB682B9007CEEA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Shuati/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.Shuati;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		7D2D756B1EB682B9007CEEA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = ShuatiTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.ShuatiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Shuati.app/Shuati";
+			};
+			name = Debug;
+		};
+		7D2D756C1EB682B9007CEEA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = ShuatiTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.ShuatiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Shuati.app/Shuati";
+			};
+			name = Release;
+		};
+		7D2D756E1EB682B9007CEEA6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = ShuatiUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.ShuatiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Shuati;
+			};
+			name = Debug;
+		};
+		7D2D756F1EB682B9007CEEA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = ShuatiUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Yankun.ShuatiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Shuati;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7D2D753A1EB682B8007CEEA6 /* Build configuration list for PBXProject "Shuati" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7D2D75651EB682B9007CEEA6 /* Debug */,
+				7D2D75661EB682B9007CEEA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7D2D75671EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "Shuati" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7D2D75681EB682B9007CEEA6 /* Debug */,
+				7D2D75691EB682B9007CEEA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7D2D756A1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7D2D756B1EB682B9007CEEA6 /* Debug */,
+				7D2D756C1EB682B9007CEEA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		7D2D756D1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7D2D756E1EB682B9007CEEA6 /* Debug */,
+				7D2D756F1EB682B9007CEEA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7D2D75371EB682B8007CEEA6 /* Project object */;
+}
