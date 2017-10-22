@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/AppDelegate.swift"
+            timestampString = "516250320.555109"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/DiagTrav.swift"
+            timestampString = "516605255.454322"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "findDiagonalOrder(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/NextGreatElement.swift"
+            timestampString = "516605995.664458"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "nextGreaterElement(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/NextGreatElement.swift"
+            timestampString = "516610606.610851"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "nextGreaterElements(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/AddNumber2.swift"
+            timestampString = "516689764.026464"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "addTwoNumbers(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/ComplexProduction.swift"
+            timestampString = "520325119.390457"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "complexNumberMultiply(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/609. Find Duplicate File in System.swift"
+            timestampString = "521527398.102107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "findDuplicate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.FindDuplicateFile.findDuplicate (Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/609.%20Find%20Duplicate%20File%20in%20System.swift"
+                  timestampString = "521527398.185573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "2466">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.FindDuplicateFile.(findDuplicate (Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.String&gt;&gt;).(closure #1)"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/609.%20Find%20Duplicate%20File%20in%20System.swift"
+                  timestampString = "521527398.186867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/609. Find Duplicate File in System.swift"
+            timestampString = "521527186.100634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "findDuplicate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/609. Find Duplicate File in System.swift"
+            timestampString = "521527398.102107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "findDuplicate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/474. Ones and Zeroes.swift"
+            timestampString = "528190515.557417"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "findMaxForm(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/474. Ones and Zeroes.swift"
+            timestampString = "528190515.557417"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "_countZeroAndOne(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/474. Ones and Zeroes.swift"
+            timestampString = "528190515.557417"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "findMaxForm(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.OnesAndZeroesSolution.findMaxForm (Swift.Array&lt;Swift.String&gt;, Swift.Int, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/474.%20Ones%20and%20Zeroes.swift"
+                  timestampString = "528180600.635663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2594">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.OnesAndZeroesSolution.(findMaxForm (Swift.Array&lt;Swift.String&gt;, Swift.Int, Swift.Int) -&gt; Swift.Int).(closure #1)"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/474.%20Ones%20and%20Zeroes.swift"
+                  timestampString = "528180600.638039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/474. Ones and Zeroes.swift"
+            timestampString = "528190515.557417"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "findMaxForm(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/477. Total Hamming Distance.swift"
+            timestampString = "528450497.287152"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "totalHammingDistance(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.HDSolution.totalHammingDistance (Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/477.%20Total%20Hamming%20Distance.swift"
+                  timestampString = "530339117.955581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.HDSolution.totalHammingDistance (Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/477.%20Total%20Hamming%20Distance.swift"
+                  timestampString = "530339118.423309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/477. Total Hamming Distance.swift"
+            timestampString = "528450497.287152"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "totalHammingDistance(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.HDSolution.totalHammingDistance (Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/477.%20Total%20Hamming%20Distance.swift"
+                  timestampString = "530339117.958184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "663">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.HDSolution.totalHammingDistance (Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/477.%20Total%20Hamming%20Distance.swift"
+                  timestampString = "530339118.425625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "663">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/SolutionTestCase.swift"
+            timestampString = "529110505.153114"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SolutionTestCase"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.__deallocating_deinit"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.186755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.init (invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.188731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.__allocating_init (invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.190105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.init (selector : ObjectiveC.Selector) -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.192018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.__allocating_init (selector : ObjectiveC.Selector) -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.193373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.init () -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.194696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.SolutionTestCase.__allocating_init () -&gt; ShuatiTests.SolutionTestCase"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/SolutionTestCase.swift"
+                  timestampString = "529110505.196019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/482. License Key Formatting.swift"
+            timestampString = "529110665.140504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "licenseKeyFormatting(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Lisense_Key_Solution.licenseKeyFormatting (Swift.String, Swift.Int) -&gt; Swift.String"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/482.%20License%20Key%20Formatting.swift"
+                  timestampString = "529110749.373462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Lisense_Key_Solution.(licenseKeyFormatting (Swift.String, Swift.Int) -&gt; Swift.String).(closure #1)"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/482.%20License%20Key%20Formatting.swift"
+                  timestampString = "529110749.375139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Lisense_Key_Solution.licenseKeyFormatting (Swift.String, Swift.Int) -&gt; Swift.String"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/482.%20License%20Key%20Formatting.swift"
+                  timestampString = "529110750.05775"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Lisense_Key_Solution.(licenseKeyFormatting (Swift.String, Swift.Int) -&gt; Swift.String).(closure #1)"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/482.%20License%20Key%20Formatting.swift"
+                  timestampString = "529110750.059816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529791891.949686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fractionAddition(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529792284.31894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "935">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529792285.000424"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "935">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529793538.121941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fractionAddition(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "530339117.960778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "3316">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "530339118.42797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "3316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529793682.653953"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fractionAddition(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "530339117.963352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4596">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.fractionAddition (Swift.String) -&gt; Swift.String"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "530339118.430115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529793900.854439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "helper(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.helper (Shuati.Fraction_Solution.FractionNum, Swift.Int, Swift.Int, Swift.Int) -&gt; Shuati.Fraction_Solution.FractionNum"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529793955.417803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.helper (ShuatiTests.Fraction_Solution.FractionNum, Swift.Int, Swift.Int, Swift.Int) -&gt; ShuatiTests.Fraction_Solution.FractionNum"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529793956.170555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "265">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529793970.774876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "helper(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.helper (Shuati.Fraction_Solution.FractionNum, Swift.Int, Swift.Int, Swift.Int) -&gt; Shuati.Fraction_Solution.FractionNum"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529793970.778724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.helper (ShuatiTests.Fraction_Solution.FractionNum, Swift.Int, Swift.Int, Swift.Int) -&gt; ShuatiTests.Fraction_Solution.FractionNum"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529793970.780245"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/592. Fraction Addition and Subtraction.swift"
+            timestampString = "529794017.057354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "reduce(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Fraction_Solution.reduce (inout Swift.Int, inout Swift.Int) -&gt; ()"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529794017.06155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Fraction_Solution.reduce (inout Swift.Int, inout Swift.Int) -&gt; ()"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/592.%20Fraction%20Addition%20and%20Subtraction.swift"
+                  timestampString = "529794017.063197"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/636. Exclusive Time of Functions.swift"
+            timestampString = "529809234.560683"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "exclusiveTime(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "529809296.169783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "529809296.845929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "321">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/636. Exclusive Time of Functions.swift"
+            timestampString = "529810263.964248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "exclusiveTime(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339117.965961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339118.43288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/636. Exclusive Time of Functions.swift"
+            timestampString = "529810570.082162"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "exclusiveTime(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339117.968749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "874">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339118.438567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "874">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/636. Exclusive Time of Functions.swift"
+            timestampString = "529810448.140701"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "exclusiveTime(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339117.971296"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1605">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Exclusive_Time_Solution.exclusiveTime (Swift.Int, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/636.%20Exclusive%20Time%20of%20Functions.swift"
+                  timestampString = "530339118.442642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1605">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/640. Solve the Equation.swift"
+            timestampString = "529820521.103025"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "eval(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Solve_Equation_Solution.eval (Swift.String) -&gt; (Swift.Int, Swift.Int)"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/640.%20Solve%20the%20Equation.swift"
+                  timestampString = "529820939.635505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Solve_Equation_Solution.eval (Swift.String) -&gt; (Swift.Int, Swift.Int)"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/640.%20Solve%20the%20Equation.swift"
+                  timestampString = "529820939.885418"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/640. Solve the Equation.swift"
+            timestampString = "529824458.575736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "eval(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Solve_Equation_Solution.eval (Swift.String) -&gt; (Swift.Int, Swift.Int)"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/640.%20Solve%20the%20Equation.swift"
+                  timestampString = "530339117.973932"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2896">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Solve_Equation_Solution.eval (Swift.String) -&gt; (Swift.Int, Swift.Int)"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/640.%20Solve%20the%20Equation.swift"
+                  timestampString = "530339118.446104"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/646. Maximum Length of Pair Chain.swift"
+            timestampString = "529824436.970583"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "findLongestChain(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Max_Pair_Solution.findLongestChain (Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/646.%20Maximum%20Length%20of%20Pair%20Chain.swift"
+                  timestampString = "529824459.708708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Max_Pair_Solution.findLongestChain (Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/646.%20Maximum%20Length%20of%20Pair%20Chain.swift"
+                  timestampString = "529824460.161034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "166">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/646. Maximum Length of Pair Chain.swift"
+            timestampString = "529824500.102345"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "findLongestChain(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Max_Pair_Solution.findLongestChain (Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/646.%20Maximum%20Length%20of%20Pair%20Chain.swift"
+                  timestampString = "529824500.107187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Max_Pair_Solution.findLongestChain (Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/646.%20Maximum%20Length%20of%20Pair%20Chain.swift"
+                  timestampString = "529824500.109343"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/648. Replace Words.swift"
+            timestampString = "530339101.795218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Replace_Words_Solution.Trie.init (Swift.Array&lt;Swift.String&gt;) -&gt; Shuati.Replace_Words_Solution.Trie"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/648.%20Replace%20Words.swift"
+                  timestampString = "530338925.251485"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1469">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Replace_Words_Solution.Trie.init (Swift.Array&lt;Swift.String&gt;) -&gt; ShuatiTests.Replace_Words_Solution.Trie"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/648.%20Replace%20Words.swift"
+                  timestampString = "530338925.715766"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1469">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shuati/648. Replace Words.swift"
+            timestampString = "530339101.795218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "findPrefix(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shuati.Replace_Words_Solution.Trie.findPrefix (Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Shuati"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/648.%20Replace%20Words.swift"
+                  timestampString = "530339117.9768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShuatiTests.Replace_Words_Solution.Trie.findPrefix (Swift.String) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ShuatiTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yankunjin/Documents/Shuati/Shuati/648.%20Replace%20Words.swift"
+                  timestampString = "530339118.450097"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D0236C01EC8DC7E00BE2EDB /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0236BF1EC8DC7E00BE2EDB /* Stack.swift */; };
+		7D0236C21ECAC78800BE2EDB /* NextGreatElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0236C11ECAC78800BE2EDB /* NextGreatElement.swift */; };
+		7D1EF37B1F3D7B3B0072F4D5 /* 654. Maximum Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1EF37A1F3D7B3B0072F4D5 /* 654. Maximum Binary Tree.swift */; };
 		7D2D75431EB682B9007CEEA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */; };
 		7D2D75451EB682B9007CEEA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75441EB682B9007CEEA6 /* ViewController.swift */; };
 		7D2D75481EB682B9007CEEA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2D75461EB682B9007CEEA6 /* Main.storyboard */; };
@@ -14,6 +17,62 @@
 		7D2D754D1EB682B9007CEEA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2D754B1EB682B9007CEEA6 /* LaunchScreen.storyboard */; };
 		7D2D75581EB682B9007CEEA6 /* ShuatiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75571EB682B9007CEEA6 /* ShuatiTests.swift */; };
 		7D2D75631EB682B9007CEEA6 /* ShuatiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2D75621EB682B9007CEEA6 /* ShuatiUITests.swift */; };
+		7D38962E1F43F9F000136C3A /* 647. Palindromic Substrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D38962D1F43F9F000136C3A /* 647. Palindromic Substrings.swift */; };
+		7D3896301F457A9D00136C3A /* 655. Print Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D38962F1F457A9D00136C3A /* 655. Print Binary Tree.swift */; };
+		7D66C1521F0372C5002E35B5 /* ComplexProduction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D66C1511F0372C5002E35B5 /* ComplexProduction.swift */; };
+		7D66C1541F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D66C1531F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift */; };
+		7D66C1561F063552002E35B5 /* 621. Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D66C1551F063552002E35B5 /* 621. Task Scheduler.swift */; };
+		7D8D69AB1F15D1690083C42C /* 609. Find Duplicate File in System.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8D69AA1F15D1690083C42C /* 609. Find Duplicate File in System.swift */; };
+		7D8D69AD1F1737B60083C42C /* 508. Most Frequent Subtree Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8D69AC1F1737B60083C42C /* 508. Most Frequent Subtree Sum.swift */; };
+		7D8D69AF1F208D7E0083C42C /* 529. Minesweeper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8D69AE1F208D7E0083C42C /* 529. Minesweeper.swift */; };
+		7D8D69B11F29B0AD0083C42C /* 565. Array Nesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8D69B01F29B0AD0083C42C /* 565. Array Nesting.swift */; };
+		7D8F3EF71F78C05D008DB6E3 /* 468. Validate IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3EF61F78C05D008DB6E3 /* 468. Validate IP Address.swift */; };
+		7D8F3EF91F7A0660008DB6E3 /* 473. Matchsticks to Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3EF81F7A0660008DB6E3 /* 473. Matchsticks to Square.swift */; };
+		7D8F3EFB1F7B5A2A008DB6E3 /* 474. Ones and Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3EFA1F7B5A2A008DB6E3 /* 474. Ones and Zeroes.swift */; };
+		7D8F3EFD1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3EFC1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift */; };
+		7D8F3F011F7F6211008DB6E3 /* TestableProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F001F7F6211008DB6E3 /* TestableProtocal.swift */; };
+		7D8F3F041F7F821E008DB6E3 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F031F7F821E008DB6E3 /* Solution.swift */; };
+		7D8F3F061F7F8367008DB6E3 /* SolutionTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F051F7F8367008DB6E3 /* SolutionTestCase.swift */; };
+		7D8F3F081F7F83ED008DB6E3 /* 477. Total Hamming Distance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3EFC1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift */; };
+		7D8F3F091F7F83F2008DB6E3 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F031F7F821E008DB6E3 /* Solution.swift */; };
+		7D8F3F0A1F7F8438008DB6E3 /* TestableProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F001F7F6211008DB6E3 /* TestableProtocal.swift */; };
+		7D8F3F0C1F897DA8008DB6E3 /* 481. Magical String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F0B1F897DA8008DB6E3 /* 481. Magical String.swift */; };
+		7D8F3F0D1F897F0E008DB6E3 /* 481. Magical String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F0B1F897DA8008DB6E3 /* 481. Magical String.swift */; };
+		7D8F3F0F1F899007008DB6E3 /* 482. License Key Formatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F0E1F899007008DB6E3 /* 482. License Key Formatting.swift */; };
+		7D8F3F101F8994B0008DB6E3 /* 482. License Key Formatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F0E1F899007008DB6E3 /* 482. License Key Formatting.swift */; };
+		7D8F3F121F8AD474008DB6E3 /* 494. Target Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F111F8AD474008DB6E3 /* 494. Target Sum.swift */; };
+		7D8F3F131F8AD495008DB6E3 /* 494. Target Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F111F8AD474008DB6E3 /* 494. Target Sum.swift */; };
+		7D8F3F151F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F141F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift */; };
+		7D8F3F171F8AE199008DB6E3 /* 516. Longest Palindromic Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F141F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift */; };
+		7D8F3F191F8B295B008DB6E3 /* 523. Continuous Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F181F8B295B008DB6E3 /* 523. Continuous Subarray Sum.swift */; };
+		7D8F3F1B1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F1A1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift */; };
+		7D8F3F1C1F8B3503008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F1A1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift */; };
+		7D8F3F1E1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F1D1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift */; };
+		7D8F3F201F8C8BB5008DB6E3 /* 539. Minimum Time Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F1D1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift */; };
+		7D8F3F221F8DE23A008DB6E3 /* 554. Brick Wall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F211F8DE23A008DB6E3 /* 554. Brick Wall.swift */; };
+		7D8F3F231F8DE23A008DB6E3 /* 554. Brick Wall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F211F8DE23A008DB6E3 /* 554. Brick Wall.swift */; };
+		7D8F3F251F8DE87E008DB6E3 /* 556. Next Greater Element III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F241F8DE87E008DB6E3 /* 556. Next Greater Element III.swift */; };
+		7D8F3F261F8DE87E008DB6E3 /* 556. Next Greater Element III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F241F8DE87E008DB6E3 /* 556. Next Greater Element III.swift */; };
+		7D8F3F281F92C090008DB6E3 /* 576. Out of Boundary Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F271F92C090008DB6E3 /* 576. Out of Boundary Paths.swift */; };
+		7D8F3F291F92C090008DB6E3 /* 576. Out of Boundary Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F271F92C090008DB6E3 /* 576. Out of Boundary Paths.swift */; };
+		7D8F3F2B1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F2A1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift */; };
+		7D8F3F2C1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F2A1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift */; };
+		7D8F3F2E1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F2D1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift */; };
+		7D8F3F2F1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F2D1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift */; };
+		7D8F3F311F940E3C008DB6E3 /* 593. Valid Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F301F940E3C008DB6E3 /* 593. Valid Square.swift */; };
+		7D8F3F321F940E3C008DB6E3 /* 593. Valid Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F301F940E3C008DB6E3 /* 593. Valid Square.swift */; };
+		7D8F3F341F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F331F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift */; };
+		7D8F3F351F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F331F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift */; };
+		7D8F3F371F946A1A008DB6E3 /* 640. Solve the Equation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */; };
+		7D8F3F381F946B19008DB6E3 /* 640. Solve the Equation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */; };
+		7D8F3F3A1F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */; };
+		7D8F3F3B1F947A88008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */; };
+		7D8F3F3D1F9C502B008DB6E3 /* 648. Replace Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */; };
+		7D8F3F3E1F9C502E008DB6E3 /* 648. Replace Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */; };
+		7DA7EE1B1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA7EE1A1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift */; };
+		7DA7EE1D1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA7EE1C1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift */; };
+		7DB8CB851ECC0EFD0028FE7F /* AddNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB8CB841ECC0EFD0028FE7F /* AddNumber2.swift */; };
+		7DCA3BDC1EC2D11F00494F72 /* DiagTrav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DCA3BDB1EC2D11F00494F72 /* DiagTrav.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +93,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7D0236BF1EC8DC7E00BE2EDB /* Stack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		7D0236C11ECAC78800BE2EDB /* NextGreatElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextGreatElement.swift; sourceTree = "<group>"; };
+		7D1EF37A1F3D7B3B0072F4D5 /* 654. Maximum Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "654. Maximum Binary Tree.swift"; sourceTree = "<group>"; };
 		7D2D753F1EB682B9007CEEA6 /* Shuati.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shuati.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D2D75441EB682B9007CEEA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +109,43 @@
 		7D2D755E1EB682B9007CEEA6 /* ShuatiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShuatiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D2D75621EB682B9007CEEA6 /* ShuatiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuatiUITests.swift; sourceTree = "<group>"; };
 		7D2D75641EB682B9007CEEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D38962D1F43F9F000136C3A /* 647. Palindromic Substrings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "647. Palindromic Substrings.swift"; sourceTree = "<group>"; };
+		7D38962F1F457A9D00136C3A /* 655. Print Binary Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "655. Print Binary Tree.swift"; sourceTree = "<group>"; };
+		7D66C1511F0372C5002E35B5 /* ComplexProduction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplexProduction.swift; sourceTree = "<group>"; };
+		7D66C1531F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "515. Find Largest Value in Each Tree Row.swift"; sourceTree = "<group>"; };
+		7D66C1551F063552002E35B5 /* 621. Task Scheduler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "621. Task Scheduler.swift"; sourceTree = "<group>"; };
+		7D8D69AA1F15D1690083C42C /* 609. Find Duplicate File in System.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "609. Find Duplicate File in System.swift"; sourceTree = "<group>"; };
+		7D8D69AC1F1737B60083C42C /* 508. Most Frequent Subtree Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "508. Most Frequent Subtree Sum.swift"; sourceTree = "<group>"; };
+		7D8D69AE1F208D7E0083C42C /* 529. Minesweeper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "529. Minesweeper.swift"; sourceTree = "<group>"; };
+		7D8D69B01F29B0AD0083C42C /* 565. Array Nesting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "565. Array Nesting.swift"; sourceTree = "<group>"; };
+		7D8F3EF61F78C05D008DB6E3 /* 468. Validate IP Address.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "468. Validate IP Address.swift"; sourceTree = "<group>"; };
+		7D8F3EF81F7A0660008DB6E3 /* 473. Matchsticks to Square.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "473. Matchsticks to Square.swift"; sourceTree = "<group>"; };
+		7D8F3EFA1F7B5A2A008DB6E3 /* 474. Ones and Zeroes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "474. Ones and Zeroes.swift"; sourceTree = "<group>"; };
+		7D8F3EFC1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "477. Total Hamming Distance.swift"; sourceTree = "<group>"; };
+		7D8F3F001F7F6211008DB6E3 /* TestableProtocal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestableProtocal.swift; sourceTree = "<group>"; };
+		7D8F3F031F7F821E008DB6E3 /* Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
+		7D8F3F051F7F8367008DB6E3 /* SolutionTestCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SolutionTestCase.swift; sourceTree = "<group>"; };
+		7D8F3F0B1F897DA8008DB6E3 /* 481. Magical String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "481. Magical String.swift"; sourceTree = "<group>"; };
+		7D8F3F0E1F899007008DB6E3 /* 482. License Key Formatting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "482. License Key Formatting.swift"; sourceTree = "<group>"; };
+		7D8F3F111F8AD474008DB6E3 /* 494. Target Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "494. Target Sum.swift"; sourceTree = "<group>"; };
+		7D8F3F141F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "516. Longest Palindromic Subsequence.swift"; sourceTree = "<group>"; };
+		7D8F3F181F8B295B008DB6E3 /* 523. Continuous Subarray Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "523. Continuous Subarray Sum.swift"; sourceTree = "<group>"; };
+		7D8F3F1A1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "524. Longest Word in Dictionary through Deleting.swift"; sourceTree = "<group>"; };
+		7D8F3F1D1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "539. Minimum Time Difference.swift"; sourceTree = "<group>"; };
+		7D8F3F211F8DE23A008DB6E3 /* 554. Brick Wall.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "554. Brick Wall.swift"; sourceTree = "<group>"; };
+		7D8F3F241F8DE87E008DB6E3 /* 556. Next Greater Element III.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "556. Next Greater Element III.swift"; sourceTree = "<group>"; };
+		7D8F3F271F92C090008DB6E3 /* 576. Out of Boundary Paths.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "576. Out of Boundary Paths.swift"; sourceTree = "<group>"; };
+		7D8F3F2A1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "583. Delete Operation for Two Strings.swift"; sourceTree = "<group>"; };
+		7D8F3F2D1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "592. Fraction Addition and Subtraction.swift"; sourceTree = "<group>"; };
+		7D8F3F301F940E3C008DB6E3 /* 593. Valid Square.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "593. Valid Square.swift"; sourceTree = "<group>"; };
+		7D8F3F331F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "636. Exclusive Time of Functions.swift"; sourceTree = "<group>"; };
+		7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "640. Solve the Equation.swift"; sourceTree = "<group>"; };
+		7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "646. Maximum Length of Pair Chain.swift"; sourceTree = "<group>"; };
+		7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "648. Replace Words.swift"; sourceTree = "<group>"; };
+		7DA7EE1A1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "522. Longest Uncommon Subsequence II.swift"; sourceTree = "<group>"; };
+		7DA7EE1C1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "433. Minimum Genetic Mutation.swift"; sourceTree = "<group>"; };
+		7DB8CB841ECC0EFD0028FE7F /* AddNumber2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNumber2.swift; sourceTree = "<group>"; };
+		7DCA3BDB1EC2D11F00494F72 /* DiagTrav.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiagTrav.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +173,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7D0236BE1EC8DC5900BE2EDB /* Data Structures */ = {
+			isa = PBXGroup;
+			children = (
+				7D8F3F021F7F81E8008DB6E3 /* LeetCodeSolutions */,
+				7D0236BF1EC8DC7E00BE2EDB /* Stack.swift */,
+				7D8F3F031F7F821E008DB6E3 /* Solution.swift */,
+			);
+			name = "Data Structures";
+			sourceTree = "<group>";
+		};
 		7D2D75361EB682B8007CEEA6 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +206,8 @@
 		7D2D75411EB682B9007CEEA6 /* Shuati */ = {
 			isa = PBXGroup;
 			children = (
+				7D8F3EFF1F7F61DB008DB6E3 /* Test */,
+				7D0236BE1EC8DC5900BE2EDB /* Data Structures */,
 				7D2D75421EB682B9007CEEA6 /* AppDelegate.swift */,
 				7D2D75441EB682B9007CEEA6 /* ViewController.swift */,
 				7D2D75461EB682B9007CEEA6 /* Main.storyboard */,
@@ -123,6 +234,58 @@
 				7D2D75641EB682B9007CEEA6 /* Info.plist */,
 			);
 			path = ShuatiUITests;
+			sourceTree = "<group>";
+		};
+		7D8F3EFF1F7F61DB008DB6E3 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				7D8F3F001F7F6211008DB6E3 /* TestableProtocal.swift */,
+				7D8F3F051F7F8367008DB6E3 /* SolutionTestCase.swift */,
+			);
+			name = Test;
+			sourceTree = "<group>";
+		};
+		7D8F3F021F7F81E8008DB6E3 /* LeetCodeSolutions */ = {
+			isa = PBXGroup;
+			children = (
+				7D1EF37A1F3D7B3B0072F4D5 /* 654. Maximum Binary Tree.swift */,
+				7DCA3BDB1EC2D11F00494F72 /* DiagTrav.swift */,
+				7D0236C11ECAC78800BE2EDB /* NextGreatElement.swift */,
+				7DB8CB841ECC0EFD0028FE7F /* AddNumber2.swift */,
+				7D66C1511F0372C5002E35B5 /* ComplexProduction.swift */,
+				7D66C1531F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift */,
+				7D66C1551F063552002E35B5 /* 621. Task Scheduler.swift */,
+				7DA7EE1A1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift */,
+				7DA7EE1C1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift */,
+				7D8D69AA1F15D1690083C42C /* 609. Find Duplicate File in System.swift */,
+				7D8D69AC1F1737B60083C42C /* 508. Most Frequent Subtree Sum.swift */,
+				7D8D69AE1F208D7E0083C42C /* 529. Minesweeper.swift */,
+				7D8D69B01F29B0AD0083C42C /* 565. Array Nesting.swift */,
+				7D38962D1F43F9F000136C3A /* 647. Palindromic Substrings.swift */,
+				7D38962F1F457A9D00136C3A /* 655. Print Binary Tree.swift */,
+				7D8F3EF61F78C05D008DB6E3 /* 468. Validate IP Address.swift */,
+				7D8F3EF81F7A0660008DB6E3 /* 473. Matchsticks to Square.swift */,
+				7D8F3EFA1F7B5A2A008DB6E3 /* 474. Ones and Zeroes.swift */,
+				7D8F3EFC1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift */,
+				7D8F3F0B1F897DA8008DB6E3 /* 481. Magical String.swift */,
+				7D8F3F0E1F899007008DB6E3 /* 482. License Key Formatting.swift */,
+				7D8F3F111F8AD474008DB6E3 /* 494. Target Sum.swift */,
+				7D8F3F141F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift */,
+				7D8F3F181F8B295B008DB6E3 /* 523. Continuous Subarray Sum.swift */,
+				7D8F3F1A1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift */,
+				7D8F3F1D1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift */,
+				7D8F3F211F8DE23A008DB6E3 /* 554. Brick Wall.swift */,
+				7D8F3F241F8DE87E008DB6E3 /* 556. Next Greater Element III.swift */,
+				7D8F3F271F92C090008DB6E3 /* 576. Out of Boundary Paths.swift */,
+				7D8F3F2A1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift */,
+				7D8F3F2D1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift */,
+				7D8F3F301F940E3C008DB6E3 /* 593. Valid Square.swift */,
+				7D8F3F331F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift */,
+				7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */,
+				7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */,
+				7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */,
+			);
+			name = LeetCodeSolutions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +422,47 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D8D69AB1F15D1690083C42C /* 609. Find Duplicate File in System.swift in Sources */,
+				7D8F3F1E1F8C8B1D008DB6E3 /* 539. Minimum Time Difference.swift in Sources */,
+				7D3896301F457A9D00136C3A /* 655. Print Binary Tree.swift in Sources */,
+				7D8F3F2B1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift in Sources */,
+				7D8F3F0C1F897DA8008DB6E3 /* 481. Magical String.swift in Sources */,
+				7D0236C01EC8DC7E00BE2EDB /* Stack.swift in Sources */,
+				7D8F3F251F8DE87E008DB6E3 /* 556. Next Greater Element III.swift in Sources */,
+				7D8F3F151F8AE04E008DB6E3 /* 516. Longest Palindromic Subsequence.swift in Sources */,
+				7DCA3BDC1EC2D11F00494F72 /* DiagTrav.swift in Sources */,
+				7D8F3F121F8AD474008DB6E3 /* 494. Target Sum.swift in Sources */,
+				7D66C1541F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
+				7D8F3F341F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift in Sources */,
+				7DA7EE1B1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift in Sources */,
+				7D8D69B11F29B0AD0083C42C /* 565. Array Nesting.swift in Sources */,
+				7D8F3F1B1F8B32BB008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift in Sources */,
+				7D8F3EFB1F7B5A2A008DB6E3 /* 474. Ones and Zeroes.swift in Sources */,
+				7D8F3EF71F78C05D008DB6E3 /* 468. Validate IP Address.swift in Sources */,
+				7D0236C21ECAC78800BE2EDB /* NextGreatElement.swift in Sources */,
+				7D8F3F3D1F9C502B008DB6E3 /* 648. Replace Words.swift in Sources */,
+				7D66C1521F0372C5002E35B5 /* ComplexProduction.swift in Sources */,
+				7D38962E1F43F9F000136C3A /* 647. Palindromic Substrings.swift in Sources */,
+				7D8F3F3A1F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */,
+				7D8F3F011F7F6211008DB6E3 /* TestableProtocal.swift in Sources */,
 				7D2D75451EB682B9007CEEA6 /* ViewController.swift in Sources */,
+				7D8F3F0F1F899007008DB6E3 /* 482. License Key Formatting.swift in Sources */,
+				7D8F3F371F946A1A008DB6E3 /* 640. Solve the Equation.swift in Sources */,
+				7D8F3F041F7F821E008DB6E3 /* Solution.swift in Sources */,
+				7D1EF37B1F3D7B3B0072F4D5 /* 654. Maximum Binary Tree.swift in Sources */,
+				7DA7EE1D1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift in Sources */,
+				7D8F3F221F8DE23A008DB6E3 /* 554. Brick Wall.swift in Sources */,
+				7D8D69AD1F1737B60083C42C /* 508. Most Frequent Subtree Sum.swift in Sources */,
 				7D2D75431EB682B9007CEEA6 /* AppDelegate.swift in Sources */,
+				7D8F3EFD1F7F6024008DB6E3 /* 477. Total Hamming Distance.swift in Sources */,
+				7D8F3F311F940E3C008DB6E3 /* 593. Valid Square.swift in Sources */,
+				7DB8CB851ECC0EFD0028FE7F /* AddNumber2.swift in Sources */,
+				7D8F3F191F8B295B008DB6E3 /* 523. Continuous Subarray Sum.swift in Sources */,
+				7D8F3F281F92C090008DB6E3 /* 576. Out of Boundary Paths.swift in Sources */,
+				7D8F3F2E1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift in Sources */,
+				7D66C1561F063552002E35B5 /* 621. Task Scheduler.swift in Sources */,
+				7D8F3EF91F7A0660008DB6E3 /* 473. Matchsticks to Square.swift in Sources */,
+				7D8D69AF1F208D7E0083C42C /* 529. Minesweeper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +470,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D8F3F3B1F947A88008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */,
+				7D8F3F1C1F8B3503008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift in Sources */,
+				7D8F3F081F7F83ED008DB6E3 /* 477. Total Hamming Distance.swift in Sources */,
+				7D8F3F381F946B19008DB6E3 /* 640. Solve the Equation.swift in Sources */,
+				7D8F3F061F7F8367008DB6E3 /* SolutionTestCase.swift in Sources */,
+				7D8F3F3E1F9C502E008DB6E3 /* 648. Replace Words.swift in Sources */,
+				7D8F3F231F8DE23A008DB6E3 /* 554. Brick Wall.swift in Sources */,
+				7D8F3F171F8AE199008DB6E3 /* 516. Longest Palindromic Subsequence.swift in Sources */,
+				7D8F3F101F8994B0008DB6E3 /* 482. License Key Formatting.swift in Sources */,
+				7D8F3F321F940E3C008DB6E3 /* 593. Valid Square.swift in Sources */,
+				7D8F3F131F8AD495008DB6E3 /* 494. Target Sum.swift in Sources */,
+				7D8F3F201F8C8BB5008DB6E3 /* 539. Minimum Time Difference.swift in Sources */,
+				7D8F3F2F1F93F526008DB6E3 /* 592. Fraction Addition and Subtraction.swift in Sources */,
+				7D8F3F2C1F93008D008DB6E3 /* 583. Delete Operation for Two Strings.swift in Sources */,
+				7D8F3F091F7F83F2008DB6E3 /* Solution.swift in Sources */,
 				7D2D75581EB682B9007CEEA6 /* ShuatiTests.swift in Sources */,
+				7D8F3F291F92C090008DB6E3 /* 576. Out of Boundary Paths.swift in Sources */,
+				7D8F3F0D1F897F0E008DB6E3 /* 481. Magical String.swift in Sources */,
+				7D8F3F261F8DE87E008DB6E3 /* 556. Next Greater Element III.swift in Sources */,
+				7D8F3F0A1F7F8438008DB6E3 /* TestableProtocal.swift in Sources */,
+				7D8F3F351F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +729,7 @@
 				7D2D75691EB682B9007CEEA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7D2D756A1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +738,7 @@
 				7D2D756C1EB682B9007CEEA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7D2D756D1EB682B9007CEEA6 /* Build configuration list for PBXNativeTarget "ShuatiUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +747,7 @@
 				7D2D756F1EB682B9007CEEA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

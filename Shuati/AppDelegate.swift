@@ -16,6 +16,38 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        //_ = SolutionNGE().nextGreaterElements([])
+        //let result = AddNumber2().addTwoNumbers(<#T##l1: ListNode?##ListNode?#>, <#T##l2: ListNode?##ListNode?#>)
+        
+//        let result = ComplexProduction().complexNumberMultiply("1+-1i", "1+-1i")
+//        let result1 = taskScheduler().leastInterval(["A","B","C","D","E","A","B","C","D","E"], 4)
+//        let result2 = MinimumGeneMutation().minMutation("AAAAAAAA", "CCCCCCCC", ["AAAAAAAA","AAAAAAAC","AAAAAACC","AAAAACCC","AAAACCCC","AACACCCC","ACCACCCC","ACCCCCCC","CCCCCCCA"])
+//        print("result2: \(result2)")
+//        let result3 = FindDuplicateFile().findDuplicate(["root/a 1.txt(abcd) 2.txt(efgh)", "root/c 3.txt(abcd)", "root/c/d 4.txt(efgh)", "root 4.txt(efgh)"])
+//        print("duplicate find \(result3)")
+        
+        //print("complex mulyi result = \(result)")
+        //let result4 = MostFrequentSubTreeSum().findFrequentTreeSum(<#T##root: TreeNode?##TreeNode?#>)
+//        let mineSweeper = MineSweeper().updateBoard([["B", "1", "E", "1", "B"],
+//                                                     ["B", "1", "M", "1", "B"],
+//                                                     ["B", "1", "1", "1", "B"],
+//                                                     ["B", "B", "B", "B", "B"]], [1,2])
+        //print("mineSweepter result \(mineSweeper)")
+//        let maxTree = MaxBT().constructMaximumBinaryTree([3,2,1,6,0,5])
+//        let result = Palindromic_Substrings().countSubstrings("cdbcaccbbaacccdcbbdcbdcdddbcbdcbadabdcbcbbadddbabdbddbbbdbdcaacdcacdbbdacdbabc")
+//        print("Palindromic_Substring: \(result)")
+//        let root = TreeNode(1)
+//        root.left = TreeNode(2)
+//        
+//        let result = Print_Binary_Tree().printTree(root)
+//        print("Print Binary Tree: \(result)")
+//        let result = MatchStickSolution().makesquare([5969561,8742425,2513572,3352059,9084275,2194427,1017540,2324577,6810719,8936380,7868365,2755770,9954463,9912280,4713511])
+//        print("Can make match square: \(result)")
+//        let result = OnesAndZeroesSolution().findMaxForm(["1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0","1","0"], 30, 30)
+//        print("Ones and Zeros: \(result)")
+        
+//    let result = HDSolution().totalHammingDistance([4,14,2])
+//    print("Can humming distance: \(result)")
         return true
     }
 
