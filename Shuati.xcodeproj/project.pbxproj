@@ -69,6 +69,8 @@
 		7D8F3F3B1F947A88008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */; };
 		7D8F3F3D1F9C502B008DB6E3 /* 648. Replace Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */; };
 		7D8F3F3E1F9C502E008DB6E3 /* 648. Replace Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */; };
+		7D8F3F401F9C661F008DB6E3 /* 649. Dota2 Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3F1F9C661F008DB6E3 /* 649. Dota2 Senate.swift */; };
+		7D8F3F411F9C6718008DB6E3 /* 649. Dota2 Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8F3F3F1F9C661F008DB6E3 /* 649. Dota2 Senate.swift */; };
 		7DA7EE1B1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA7EE1A1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift */; };
 		7DA7EE1D1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA7EE1C1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift */; };
 		7DB8CB851ECC0EFD0028FE7F /* AddNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB8CB841ECC0EFD0028FE7F /* AddNumber2.swift */; };
@@ -142,6 +144,7 @@
 		7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "640. Solve the Equation.swift"; sourceTree = "<group>"; };
 		7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "646. Maximum Length of Pair Chain.swift"; sourceTree = "<group>"; };
 		7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "648. Replace Words.swift"; sourceTree = "<group>"; };
+		7D8F3F3F1F9C661F008DB6E3 /* 649. Dota2 Senate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "649. Dota2 Senate.swift"; sourceTree = "<group>"; };
 		7DA7EE1A1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "522. Longest Uncommon Subsequence II.swift"; sourceTree = "<group>"; };
 		7DA7EE1C1F0F45D4002976F6 /* 433. Minimum Genetic Mutation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "433. Minimum Genetic Mutation.swift"; sourceTree = "<group>"; };
 		7DB8CB841ECC0EFD0028FE7F /* AddNumber2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNumber2.swift; sourceTree = "<group>"; };
@@ -284,6 +287,7 @@
 				7D8F3F361F946A1A008DB6E3 /* 640. Solve the Equation.swift */,
 				7D8F3F391F9479A4008DB6E3 /* 646. Maximum Length of Pair Chain.swift */,
 				7D8F3F3C1F9C502A008DB6E3 /* 648. Replace Words.swift */,
+				7D8F3F3F1F9C661F008DB6E3 /* 649. Dota2 Senate.swift */,
 			);
 			name = LeetCodeSolutions;
 			sourceTree = "<group>";
@@ -433,6 +437,7 @@
 				7DCA3BDC1EC2D11F00494F72 /* DiagTrav.swift in Sources */,
 				7D8F3F121F8AD474008DB6E3 /* 494. Target Sum.swift in Sources */,
 				7D66C1541F04E346002E35B5 /* 515. Find Largest Value in Each Tree Row.swift in Sources */,
+				7D8F3F401F9C661F008DB6E3 /* 649. Dota2 Senate.swift in Sources */,
 				7D8F3F341F943DF8008DB6E3 /* 636. Exclusive Time of Functions.swift in Sources */,
 				7DA7EE1B1F0E0EBA002976F6 /* 522. Longest Uncommon Subsequence II.swift in Sources */,
 				7D8D69B11F29B0AD0083C42C /* 565. Array Nesting.swift in Sources */,
@@ -473,6 +478,7 @@
 				7D8F3F3B1F947A88008DB6E3 /* 646. Maximum Length of Pair Chain.swift in Sources */,
 				7D8F3F1C1F8B3503008DB6E3 /* 524. Longest Word in Dictionary through Deleting.swift in Sources */,
 				7D8F3F081F7F83ED008DB6E3 /* 477. Total Hamming Distance.swift in Sources */,
+				7D8F3F411F9C6718008DB6E3 /* 649. Dota2 Senate.swift in Sources */,
 				7D8F3F381F946B19008DB6E3 /* 640. Solve the Equation.swift in Sources */,
 				7D8F3F061F7F8367008DB6E3 /* SolutionTestCase.swift in Sources */,
 				7D8F3F3E1F9C502E008DB6E3 /* 648. Replace Words.swift in Sources */,

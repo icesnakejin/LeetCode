@@ -21,7 +21,8 @@ class SolutionTestCase: XCTestCase {
         //testObject = Exclusive_Time_Solution()
         //testObject = Solve_Equation_Solution()
         //testObject = Max_Pair_Solution()
-        testObject = Replace_Words_Solution()
+        //testObject = Replace_Words_Solution()
+        testObject = Dota2_Senate_Solution()
     
     }
     
@@ -33,7 +34,7 @@ class SolutionTestCase: XCTestCase {
     func testExample() {
         
         if let testObject = testObject {
-            testObject.printResult(params:["cat", "bat", "rat"], "the cattle was rattled by the battery")
+            testObject.printResult(params:"RDD")
         }
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
