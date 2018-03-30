@@ -14,6 +14,7 @@ class Dota2_Senate_Solution : Testable {
         let n = sens.count
         var rIndexes = [Int]()
         var dIndexes = [Int]()
+        let sub = dIndexes
         for i in 0..<n {
             let c = sens[i]
             if c == "R" {rIndexes.append(i)}
